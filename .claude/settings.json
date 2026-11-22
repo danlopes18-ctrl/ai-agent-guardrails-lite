@@ -1,0 +1,28 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node hooks/01-hook-block-dangerous-shell.mjs"
+          }
+        ]
+      },
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node hooks/03-hook-protected-files-guard.mjs"
+          },
+          {
+            "type": "command",
+            "command": "node hooks/02-hook-secret-leak-guard.mjs"
+          }
+        ]
+      }
+    ]
+  }
+}
