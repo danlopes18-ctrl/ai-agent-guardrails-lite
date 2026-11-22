@@ -52,3 +52,11 @@ Upgrade to **[AI Coding Guardrails & Engineering OS v1.0 ($49 · Commercial & Ag
 Also check out our other open-source AI engineering kits:
 - [MCP Starter Suite Lite (MIT)](https://github.com/danlopes18-ctrl/mcp-starter-suite-lite) — 3 hardened zero-dep MCP servers + Inspector CLI
 - [AI Automation Vault Lite (MIT)](https://github.com/danlopes18-ctrl/ai-automation-vault-lite) — 5 standard-node n8n workflows + n8n MCP bridge
+---
+
+### 🎁 Save $38 — Complete AI Engineering Stack Bundle ($79 vs $117)
+
+Want all 3 zero-dependency developer suites together? Grab the **[Complete AI Engineering Stack Bundle ($79 · Commercial License)](https://danlopes3.gumroad.com/l/complete-ai-engineering-stack)**:
+- **AI Agency & DevOps Automation Vault ($29)** — 25 standard-node n8n workflows + 3 MCP servers
+- **Production MCP Server Suite ($39)** — 12 hardened zero-dependency Node.js MCP servers + Universal Inspector CLI
+- **AI Coding Guardrails & Engineering OS ($49)** — 10 executable PreToolUse/PostToolUse hooks & OWASP CLIs + 8 rulebooks + 12 slash skills
